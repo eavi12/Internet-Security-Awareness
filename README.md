@@ -1,7 +1,7 @@
 # Internet-Security-Awareness
-# Online Awareness Hub
+# Internet-Security-Awareness Hub
 
-Welcome to the Cybersecurity Awareness Hub! This repository is a collection of resources and tips to help you and your loved ones stay safe online.
+Welcome to the Internet-Security-Awareness Hub! This repository is a collection of resources and tips to help you and your loved ones stay safe online.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,9 @@ Welcome to the Cybersecurity Awareness Hub! This repository is a collection of r
   - [1. Public Wi-Fi and VPNs](#1-Public-Wi-Fi-and-VPNs)  
   - [2. Password Security](#2-password-security)
   - [3. Phishing Awareness](#3-phishing-awareness)
-  - [4. Secure Online Behavior](#4-secure-online-behavior)
+  - [4. Public Financial Transactions](#4-Public-Financial-Transactions)
+  - [5. Secure Online Behavior](#5-Secure-Online-Behavior)
+  
  
 
 
@@ -28,7 +30,10 @@ Keeping your online accounts safe is essential, and one key way to do that is by
 ### 3. `Phishing Awareness`
 Protecting yourself from online tricks is important, and one common trick is called phishing. It's like someone pretending to be your friend to get your personal information. Be careful with emails, especially if they ask for your secrets or seem really urgent. If you get a strange message with a link or something to download, it's better not to click on it. Real companies won't ask for your important info by email. If you're not sure, it's okay to ask someone you trust or check directly with the company. Watch out for things like misspelled web addresses or messages that don't seem personal. Always double-check before sharing your private stuff online. If you ever feel unsure, talk to someone you know or find easy guides online to help you stay safe from tricks like phishing.
 
-### 4. `Secure Online Behavior`
+### 4. `Public-Financial-Transactions`
+When you're using your card at stores or gas stations, be on the lookout for sneaky devices called card skimmers. These tricky gadgets secretly steal your card info. Always check the card reader for anything weird, like loose parts, and cover the keypad when entering your PIN. Use contactless payments if you can, keep an eye on your bank statements, and stick to well-lit places. If something looks off, tell the store or gas station folks and report it to the police. It's all about staying smart and keeping your card safe from tricky business!
+
+### 5. `Secure Online Behavior`
 Ensuring your safety on the internet is crucial, and it doesn't have to be complicated. Start by using strong and unique passwords, making them a mix of different things like letters and numbers. Changing passwords regularly adds an extra layer of protection. Explore options like two-factor authentication for an additional safeguard. Always be cautious with emails – avoid clicking on links or downloading anything if you're unsure. Remember, trustworthy organizations won't ask for sensitive information through email. If you ever have doubts, take your time and seek advice from friends or find simple guides online. Your online safety is important, so don't hesitate to be vigilant!.
 
 
