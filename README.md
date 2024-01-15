@@ -31,9 +31,6 @@ Ensuring your safety on the internet is crucial, and it doesn't have to be compl
 ### 4. Public Wi-Fi and VPNs
 Using free public Wi-Fi can be convenient, but it comes with risks. When you connect to public networks, hackers might try to access your personal information. To stay safe, avoid accessing sensitive data like online banking or personal accounts on public Wi-Fi. Consider using a Virtual Private Network (VPN) when connecting to public networks. A VPN encrypts your internet connection, making it harder for others to see your data. It adds an extra layer of security, especially when using public Wi-Fi at cafes, airports, or hotels. Using a VPN helps protect your privacy and ensures a safer online experience. Remember, your safety is worth the extra precaution!
 
-## Contribute
-
-We welcome contributions! Whether it's fixing a typo, adding new information, or suggesting a new section, your input is valuable. Check the [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute.
 
 ---
 
