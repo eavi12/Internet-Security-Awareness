@@ -1,5 +1,5 @@
 # Internet-Security-Awareness
-# Cybersecurity Awareness Hub
+# Online Awareness Hub
 
 Welcome to the Cybersecurity Awareness Hub! This repository is a collection of resources and tips to help you and your loved ones stay safe online.
 
