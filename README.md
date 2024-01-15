@@ -10,7 +10,7 @@ Welcome to the Cybersecurity Awareness Hub! This repository is a collection of r
   - [2. Phishing Awareness](#2-phishing-awareness)
   - [3. Secure Online Behavior](#3-secure-online-behavior)
   - [4. Public Wi-Fi and VPNs](#4-Public-Wi-Fi-and-VPNs)
-- [Contribute](#contribute)
+
 
 
 ## Introduction
